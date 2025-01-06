@@ -2,7 +2,7 @@
 
 ## Marking
 
-### DELETE THIS TEXT AND REPLACE WITH YOUR NAME
+### David Amata
 
 *Complete the sections below to indicate what work you have completed. This will guide your marker.*
 
@@ -10,20 +10,19 @@
 
 ## 0. Practicals and Exercises
 
-*Describe here the work that is in the ``practicals`` folder. Pay special attention
-to any work you have included that is not taken from the sheets on MyBeckett. Write no more than 100 words.*
+*In the 'practicals' folder contains all my programs from each weekly topic. They are stored in the folder 'programs'*
 
 ## 1. Project
 
-*Explain here which project you have completed in the ``project`` folder. Include a list of the features you have implemented. Write about 200 words. Remember that it is fine to have attempted both projects, in which case they should be arranged in separate folders.*
+*In the project folder, contains both projects as I tried to both of them. I believe I successfully created an interactive chatbot for project 2 but I think my attempt at project 1 was a little weaker. However, The chatbot has a dictionary containing over 30 keywords which I think contributes to its interactiveness largely. Also, I managed to implement a disconnection and reconnection feature that I was particularly proud of. This feature was originally supposed to be based on inactivity but I couldn't figure out how to code it so I used randomness instead.*
 
 ## 2. Anything Else
 
-*Is there anything else your marker needs to know? Please add it here.*
+
 
 ## 3. AI Tools
 
-*Please indicate if you have used any AI tools, and if so, which ones, and how. If you have used none, just write "None".*
+None
 
 ## Declaration
 
